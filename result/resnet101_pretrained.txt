@@ -1,0 +1,21 @@
+
+ The epoch is 10, average recall: 0.7931, average precision: 0.8214,average F1: 0.8070, average accuracy: 0.8136, average AUC: 0.9095
+ The epoch is 20, average recall: 0.8621, average precision: 0.8772,average F1: 0.8696, average accuracy: 0.8729, average AUC: 0.9270
+ The epoch is 30, average recall: 0.8793, average precision: 0.8644,average F1: 0.8718, average accuracy: 0.8729, average AUC: 0.9474
+ The epoch is 40, average recall: 0.8793, average precision: 0.8361,average F1: 0.8571, average accuracy: 0.8559, average AUC: 0.9555
+ The epoch is 50, average recall: 0.8966, average precision: 0.8667,average F1: 0.8814, average accuracy: 0.8814, average AUC: 0.9618
+ The epoch is 60, average recall: 0.8966, average precision: 0.8387,average F1: 0.8667, average accuracy: 0.8644, average AUC: 0.9402
+ The epoch is 70, average recall: 0.8793, average precision: 0.8500,average F1: 0.8644, average accuracy: 0.8644, average AUC: 0.9546
+ The epoch is 80, average recall: 0.9483, average precision: 0.8209,average F1: 0.8800, average accuracy: 0.8729, average AUC: 0.9526
+ The epoch is 90, average recall: 0.8621, average precision: 0.8065,average F1: 0.8333, average accuracy: 0.8305, average AUC: 0.9316
+ The epoch is 100, average recall: 0.8621, average precision: 0.8197,average F1: 0.8403, average accuracy: 0.8390, average AUC: 0.9394
+ The epoch is 110, average recall: 0.8621, average precision: 0.9259,average F1: 0.8929, average accuracy: 0.8983, average AUC: 0.9440
+ The epoch is 120, average recall: 0.8448, average precision: 0.9074,average F1: 0.8750, average accuracy: 0.8814, average AUC: 0.9491
+ The epoch is 130, average recall: 0.8276, average precision: 0.8727,average F1: 0.8496, average accuracy: 0.8559, average AUC: 0.9471
+ The epoch is 140, average recall: 0.8276, average precision: 0.9057,average F1: 0.8649, average accuracy: 0.8729, average AUC: 0.9463
+ The epoch is 150, average recall: 0.8966, average precision: 0.8667,average F1: 0.8814, average accuracy: 0.8814, average AUC: 0.9443
+ The epoch is 160, average recall: 0.8966, average precision: 0.8254,average F1: 0.8595, average accuracy: 0.8559, average AUC: 0.9264
+ The epoch is 170, average recall: 0.9310, average precision: 0.8182,average F1: 0.8710, average accuracy: 0.8644, average AUC: 0.9356
+ The epoch is 180, average recall: 0.9310, average precision: 0.8710,average F1: 0.9000, average accuracy: 0.8983, average AUC: 0.9601
+ The epoch is 190, average recall: 0.8621, average precision: 0.8772,average F1: 0.8696, average accuracy: 0.8729, average AUC: 0.9356
+ The epoch is 200, average recall: 0.8966, average precision: 0.8525,average F1: 0.8739, average accuracy: 0.8729, average AUC: 0.9537
