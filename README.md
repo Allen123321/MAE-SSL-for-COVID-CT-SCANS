@@ -17,3 +17,8 @@ Inspired by this method, a large amount of unlabeled data can be used to pre-tra
 
 ## 2 Result
 
+![nopertrain](./result/nopertrain.png)
+
+![pertrain](./result/pertrain.png)
+
+The results of the MAE fine-tuning method and the pre-trained model of the EfficientNet supervised learning algorithm on the test set are almost the same
